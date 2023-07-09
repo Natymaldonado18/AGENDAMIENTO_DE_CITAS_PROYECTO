@@ -1,0 +1,4 @@
+void valorarServicio();
+
+void valoracionMenu();
+

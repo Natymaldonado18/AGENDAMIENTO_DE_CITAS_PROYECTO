@@ -1,0 +1,19 @@
+Nombre y Apellidos: Dr. John Smith
+Correo: doctora@example.com
+Telefono: +1234567890 ext. 123
+Especialidad: Cardiologia
+
+Nombre y Apellidos: Dr. Maria Garcia
+Correo: doctorb@example.com
+Telefono: +0987654321 ext. 456
+Especialidad: Dermatologia
+
+Nombre y Apellidos: Dr. David Johnson
+Correo: doctorc@example.com
+Telefono: +1112223333 ext. 789
+Especialidad: Pediatria
+
+Nombre y Apellidos: Dra. Ana Torres
+Correo: doctord@example.com
+Telefono: +9876543210 ext. 234
+Especialidad: Neurologia
